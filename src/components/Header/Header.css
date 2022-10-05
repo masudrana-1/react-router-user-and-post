@@ -10,3 +10,8 @@
 .header a:hover {
     background-color: yellowgreen;
 }
+
+.active {
+    background-color: rgb(39, 212, 23);
+    color: aliceblue;
+}
