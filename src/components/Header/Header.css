@@ -1,17 +1,18 @@
+.header {
+    background-color: rgb(107, 59, 179);
+}
+
 .header a {
     text-decoration: none;
-    color: crimson;
-    background-color: wheat;
-    margin-left: 30px;
-    margin-top: 20px;
-    padding: 10px;
+    margin-right: 15px;
+    padding: 2px 5px;
+    color: aliceblueS;
 }
 
 .header a:hover {
-    background-color: yellowgreen;
+    background-color: lightblue;
 }
 
 .active {
-    background-color: rgb(39, 212, 23);
-    color: aliceblue;
+    background-color: rgb(79, 9, 112);
 }
